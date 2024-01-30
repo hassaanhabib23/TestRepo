@@ -3,3 +3,8 @@ public class test {
         System.out.print("Test");
     }
 }
+
+staticfsfasd
+fsdf
+sa
+fsdfsda
